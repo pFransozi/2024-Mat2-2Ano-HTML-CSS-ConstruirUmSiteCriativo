@@ -10,7 +10,7 @@ O curso "html-css-usando-criatividade-criar-site" aborda os seguintes temas:
 2. Utilizar github para controle dos arquivos do site;
 3. Construir páginas web utilizando html/css;
 
-O resultado final do curso pode ser acessado pelo [link](https://pfransozi.github.io/2023-MAT2-HTML-CSS/);
+O resultado final do curso pode ser acessado pelo [link]([https://pfransozi.github.io/2023-MAT2-HTML-CSS/](https://github.com/pFransozi/2024-Mat2-2Ano-HTML-CSS-ConstruirUmSiteCriativo));
 
 ## Rúbricas
 
